@@ -1,1 +1,26 @@
-/* Add CSS Styling */
+p.Number1{
+background-color: pink;
+font-size: larger;
+}
+
+div#Number2{
+    font-size: x-large;
+    color: blue;
+}
+p.number{
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+    background-color: pink;
+}
+
+div#Number4{
+    font-size: xx-large;
+    background-color: green;
+    font-weight: bold;
+}
+p.Number5{
+    font-size: large;
+    font-weight: bolder;
+    background-color: pink;
+}
